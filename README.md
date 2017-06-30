@@ -17,12 +17,12 @@ It uses following open source softwares:
 This script changes resolution of videos. Resolution of videos can be increased or decreased. Frames
 are optimized by using waifu2x-caffe
 
-Things you need:
+Other softwares you need to download:
 * ffmpeg.exe
 * ffprobe.exe
 * 7za.ese
 * waifu2x-caffe
-
+(Use links given above to download)
 
 Setting up:
 1. First of all Download waifu2x-caffe.zip from the following website:
