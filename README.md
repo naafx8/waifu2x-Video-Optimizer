@@ -1,4 +1,5 @@
-﻿
+﻿# waifu2x-video enhancer
+
 Just as waifu2x works to enhance resolution and edit "Anime-Style Art" (images),
 waifu2x-video is a batch script which works the same way but for VIDEOS!
 -----------------------------------------------------------------------------------
