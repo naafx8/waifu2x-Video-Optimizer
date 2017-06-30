@@ -1,6 +1,5 @@
 ﻿# waifu2x-Video Enhancer
-Just as waifu2x works to enhance resolution and edit "Anime-Style Art" (images),
-waifu2x-video is a batch script which works the same way but for VIDEOS!
+Just as waifu2x works to enhance resolution and edit "Anime-Style Art" (images), waifu2x-video is a batch script which works the same way but for VIDEOS!
 
 ### Softwares used:
 
@@ -10,17 +9,13 @@ It uses following open source softwares:
 	- [Release](https://github.com/lltcggie/waifu2x-caffe/releases)
 * `ffmpeg (and ffmprobe)`
 	- [Source](https://github.com/FFmpeg/FFmpeg)
-* `7zip (7za)`
-	- [Release](http://www.7-zip.org/)
 
 ### Instructions to set up for use:
-This script changes resolution of videos. Resolution of videos can be increased or decreased. Frames
-are optimized by using waifu2x-caffe
+This script changes resolution of videos. Resolution of videos can be increased or decreased. Frames are optimized by using waifu2x-caffe, so you can perform all optimizations available for cui version of waifu2x-caffe (see its readme for details).
 
 Other softwares you need to download:
 * ffmpeg.exe
 * ffprobe.exe
-* 7za.ese
 * waifu2x-caffe  
 (Use links given above to download Release versions)
 
