@@ -21,7 +21,7 @@ Other softwares you need to download:
 * ffmpeg.exe
 * ffprobe.exe
 * 7za.ese
-* waifu2x-caffe 
+* waifu2x-caffe  
 (Use links given above to download Release versions)
 
 Setting up:
