@@ -26,5 +26,5 @@ This script changes resolution of videos. Resolution of videos can be increased 
 1. Extract `ffmpeg-20******-win32-static.zip` and copy ffmpeg.exe and ffprobe.exe to `C:\Windows\System32`. This way the script will be able to access these both programs from anywhere easily.  
 2. Extract `waifu2x-caffe.zip`. There will be a folder named "waifu2x-caffe". Copy this folder to `"C:\Program Files"`. So `waifu2x-caffe-cui.exe` will be in `"C:\Program Files\waifu2x-caffe\"`
 3. Now you need to add path of `waifu2x-caffe-cui.exe` in a system variable. Open `CMD` and type the following command:
-> setx waifu2x "\\"C:\Program Files\waifu2x-caffe\waifu2x-caffe-cui.exe\\""
+> setx waifu2x "\\"C:\Program Files\waifu2x-caffe\waifu2x-caffe-cui.exe\\""<
 You are all set now. Open `waifu2x-Video-Optimizer.bat`, paste the path of video and select video resolution of result video.
